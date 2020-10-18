@@ -1,1 +1,1 @@
-# python-gui
+# Python Tutorials - GUI Programing
