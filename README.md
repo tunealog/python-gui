@@ -12,5 +12,11 @@
 - Radiobutton
 - Combobox
 - Progressbar
+- Menu
+- Messagebox
+- Frame
+- Scollbar
+- Grid
+- Quiz
 
 ### GUI Project
