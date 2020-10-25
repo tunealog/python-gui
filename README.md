@@ -5,5 +5,12 @@
 ### GUI Basic
 - create_frame
 - button
+- label
+- text_entry
+- listbox
+- checkbox
+- radiobutton
+- combobox
+- progressbar
 
 ### GUI Project
