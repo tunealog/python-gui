@@ -20,3 +20,9 @@
 - Quiz
 
 ### GUI Project
+- Create layout
+- Basic function
+- Auto screenshot
+- Merge images
+- Apply options
+- Advanced screenshot
