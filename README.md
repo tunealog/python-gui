@@ -26,3 +26,5 @@
 - Merge images
 - Apply options
 - Advanced screenshot
+## 학습
+GUI프로그램을 만들수 있게 도와주는 tkinter패키지의 기초사용법을 익히고 미니 프로젝트를 진행하여 사진편집 프로그램을 개발해볼수 있습니다.
